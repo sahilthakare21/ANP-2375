@@ -1,0 +1,2 @@
+ititmodule MyFirstJavaProject {
+}
